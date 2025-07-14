@@ -1,4 +1,4 @@
-# Movie Recommender System // Content Based Movie Recommender System
+# Movie Recommender System/Content Based Movie Recommender System
 
 Movie Recommender System is the python Based Project To Create Content Based Recommender System using TMDB 5000 movie dataset from kaggle
 
